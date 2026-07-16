@@ -1,4 +1,4 @@
-/*public class ver{
+public class ver{
     public static void main(String[] args){
         int age = 19;
         char name = 'a';
@@ -10,4 +10,4 @@
 
     }
 }
-*/
+
