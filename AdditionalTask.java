@@ -1,4 +1,4 @@
-public class AdditionalTask{
+/*public class AdditionalTask{
     public static void main (String[] args){
         System.out.println("Ashu");
         int age = 13;
@@ -13,4 +13,4 @@ public class AdditionalTask{
 
     }
 
-}
+}*/
