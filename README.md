@@ -29,4 +29,7 @@ compile the code
 javac filename.java
 
 for running the codes 
+
+
+
 java filename.java
