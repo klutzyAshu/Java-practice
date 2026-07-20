@@ -1,0 +1,52 @@
+1-10 Questions 
+
+1. Check if a number is positive or negative.
+2. Check if a number is even or odd.
+3. Check if a person is eligible to vote (age ≥ 18).
+4. Find the largest of two numbers.
+5. Check if a number is divisible by 5.
+6. Check if a number is divisible by both 3 and 7.
+7. Check whether a character is a vowel or consonant.
+8. Check if a number is zero, positive, or negative.
+9. Check if a year is a leap year.
+10. Check whether a number is a multiple of 10.
+
+
+
+11-20 Questions
+
+11. Find the largest of three numbers.
+12. Check if a number is a 2-digit number or not.
+13. Assign grade based on marks:
+≥90 → A
+≥75 → B
+≥50 → C
+else → Fail
+14. Check if a character is uppercase, lowercase, digit, or special character.
+15. Check if a number is within a specific range (e.g., 10 to 50).
+16. Calculate electricity bill based on units:
+0–100 → ₹5/unit
+101–200 → ₹7/unit
+above 200 → ₹10/unit
+18. Check if a number is divisible by 2 or 3 but not both.
+19. Determine if a person is a child[less than 14], teenager[14y to 21y], or adult[21+] based on age.
+
+
+21-30 Questions
+
+21. Create a simple calculator using if-else (add, subtract, multiply, divide).
+22. Find the second largest of three numbers.
+23. Check if a triangle is valid based on 3 sides.
+24. Check if a number is Armstrong (e.g., 153).
+25. Determine salary bonus:
+5 years → 10% bonus
+3–5 years → 5%
+<3 years → no bonus
+26. Check login credentials (username & password).
+27. Calculate discount:
+≥1000 → 20%
+≥500 → 10%
+else → no discount
+
+29. Check if a number is divisible by 11 using condition.
+30. Build a menu-driven program using if-elif-else (e.g., ATM system).
