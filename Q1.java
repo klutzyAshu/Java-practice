@@ -21,15 +21,15 @@ public class Q1 {
         int grade = (f/5);
         if(grade>=90){
             System.out.println("A+");
-    }if(grade>= 80){
+    }else if(grade>= 80){
         System.out.println("A");
-    }if(grade>=60){
+    }else if(grade>=60){
         System.out.println("B");
 
         System.out.println("C");
-    }if(grade>=33){
+    }else if(grade>=33){
         System.out.println("D");
-    }if(grade<33){
+    }else if(grade<33){
     System.out.println("fail");
 }
 
