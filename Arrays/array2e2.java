@@ -9,6 +9,3 @@ public class array2e2 {
         System.out.println("sum = " + sum);
     }
 }
-
-
-`
