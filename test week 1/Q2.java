@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class Q2{
     public static void main(String[]args){
+        //for checking the frequency of a function  
+        
     System.out.println("Enter your number ");
     Scanner sc = new Scanner(System.in);
     //Scanner function 
