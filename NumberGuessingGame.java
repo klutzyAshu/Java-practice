@@ -1,13 +1,38 @@
 import java.util.Random;
 import java.util.Scanner;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.PipedWriter;
+// number guessing game  with data records of the player.
 
 public class NumberGuessingGame {
+
+    // function1
+    private static final String path= "/home/ashu/Documents/Java-practice/database/leaderboard.csv";
+    private static String playerName(Scanner scanner){
+        System.out.println("Wellcome to Number Guessing game :");
+        System.out.println("Enter ur name pal");
+        String name = scanner.nextLine().trim();
+        return name.isEmpty() ? " Stranger" : name;
+
+
+
+    }
+
+
+    private static int playGame(Scanner scanner String playerName){
+        
+
+    }
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         
-        // Generate a random number between 1 and 100
         int secretNumber = random.nextInt(100) + 1;
         int guess;
         int attempts = 0;
@@ -17,7 +42,6 @@ public class NumberGuessingGame {
         System.out.println("I'm thinking of a number between 1 and 100.");
         System.out.println("Can you guess it?");
 
-        // Loop until the user guesses correctly
         while (!guessedCorrectly) {
             System.out.print("\nEnter your guess (or type 'quit' to exit): ");
             String input = scanner.nextLine();

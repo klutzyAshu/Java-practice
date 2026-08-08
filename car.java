@@ -1,5 +1,6 @@
 public class car {
     public static void main(String[] args){
+    //details for car . 
         String car ="bmw";
         int speedlimit = 120 ;
         String speed =  "kmph";

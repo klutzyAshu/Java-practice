@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class array2e2 {
     public static void main(String[] args){
         int[] arr = {12,31,33,23,24,54,65,75,100,32};
@@ -9,3 +10,5 @@ public class array2e2 {
         System.out.println("sum = " + sum);
     }
 }
+=======
+>>>>>>> dcd12ed4e1e3228239e554685f402f632e6b8318
